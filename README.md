@@ -34,8 +34,8 @@ fonksiyon hesap_makinesi():
     seçim = giriş("Bir işlem seçin (1/2/3/4): ")
 
     eğer seçim içinde ['1', '2', '3', '4']:
-        sayı1 = float(giriş("Birinci sayıyı girin: "))
-        sayı2 = float(giriş("İkinci sayıyı girin: "))
+        sayı1 = ondalık(giriş("Birinci sayıyı girin: "))
+        sayı2 = ondalık(giriş("İkinci sayıyı girin: "))
 
         eğer seçim == '1':
             topla(sayı1, sayı2)
