@@ -1,5 +1,6 @@
 # Azazil-Hesap-Makinesi
 Azazil Türkçesi Yazılım Dili ile Hesap Makinesi Yaptık
+Azazil ile kodlamış bu hesap makinesi terminalde çalışmaktadır ve dört işlem yapmaktadır.
 
 işte kod:
 
